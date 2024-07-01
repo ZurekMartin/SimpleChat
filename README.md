@@ -1,4 +1,5 @@
 # SimpleChat
+
 ## Simple chat web app
 Chat web app with locally running LLM 
 
